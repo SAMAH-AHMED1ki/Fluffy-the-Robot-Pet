@@ -5,7 +5,6 @@
 #define STAT_MAX       10U
 #define LOW_WARNING    3U
 #define NAME_LEN       12U
-
 /* mood bits */
 #define BIT_ASLEEP     0U
 #define BIT_HUNGRY     1U
