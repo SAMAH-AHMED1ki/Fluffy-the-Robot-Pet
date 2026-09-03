@@ -1,6 +1,6 @@
 # Project 4 — Fluffy the Robot Pet
-name : Samah Ahmed mahmoud ahmed
-email : sammahmedzz50@gmail.com
+**Author:** Samah Ahmed Mahmoud Ahmed  
+**Email:** [sammahmedzz50@gmail.com](mailto:sammahmedzz50@gmail.com)
 ## Description
 A virtual pet simulation managing core stats (food, fun, energy), bitwise mood flags, time progression, and recovery mechanics.
 
