@@ -1,9 +1,9 @@
 # Project 4 — Fluffy the Robot Pet
-
+name : Samah Ahmed mahmoud ahmed
+email : sammahmedzz50@gmail.com
 ## Description
 A virtual pet simulation managing core stats (food, fun, energy), bitwise mood flags, time progression, and recovery mechanics.
-name : samah ahmed mahmoud ahmed
-email : sammahmedzz50@gmail.com
+
 ## How to Build and Run
 1. Open terminal in the project directory.
 2. Compile with warnings enabled:
